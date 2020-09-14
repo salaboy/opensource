@@ -19,7 +19,8 @@ As part of my Open Source Journey, a recent involvement that I had was with the 
 - [Choose your License](https://choosealicense.com)
 - [Open Core Principles](https://www.moritzplassnig.com/open-core-first-principles/)
 - [Open Organization](https://www.amazon.co.uk/Open-Organization-Igniting-Passion-Performance/dp/1625275277/ref=sr_1_1?dchild=1&keywords=open+organization&qid=1600096119&sr=8-1)
-
 - [Cloud Native Computing Foundation](https://www.cncf.io) : Cloud Native Computing Foundation dictates Apache License 2.0 by default
 - [Open Source Myths and Half Truths Part 1](https://hackernoon.com/open-source-myths-and-half-truths-part-1-rur3e9x?ref=hackernoon.com)
 - [Open Source Myths and Half Truths Part 2](https://hackernoon.com/open-source-myths-and-half-truths-part-2-rft3ufk?ref=hackernoon.com)
+- **Open Source Governance Find Reference**
+  - [CNCF Governance Models](https://www.cncf.io/blog/2019/08/30/cncf-technical-principles-and-open-governance-success/)
