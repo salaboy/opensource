@@ -1,7 +1,21 @@
 # Open Source
 Open Source References, Links, Ideas and thoughts. 
 
+# My Open Source Journey
+
 After working for some years in different companies that prometed Open Source as part of their core believes I've came to meet a lot of people who explained and promoted Open Source in different ways. Some more passionate, some very practical, some very theoretical, so I will use this repository to keep track of ideas and thougths about how Open Source initiatives impacts different communities, companies and organizations. 
+
+## Lessons Learned
+
+  - Open Source is a continuous learning experience
+  - Contributions Matters more than credentials
+	- Influence will come from value added, not your title
+  - Open Source is changing with the Cloud
+  - Being part of Open Source is an active task, you cannot be a passive consumer
+
+Recognition is important in these communities and I haven't realized how important recognition is until [I was nominated for JBoss Awards in 2011](https://blog.kie.org/2011/03/vote-salaboy-community-award.html). 
+
+[Writing books about the Open Source projects](https://www.amazon.co.uk/s?k=mauricio+salatino&ref=nb_sb_noss) that I loved helped me to raise my profile and gain access to different conferences around the world. 
 
 As part of my Open Source Journey, a recent involvement that I had was with the Jenkins X Community and you can read more about that [here](https://salaboy.com/2020/05/19/why-isnt-jenkins-xs-future-more-open/).
 
@@ -9,8 +23,9 @@ I am a huge advocate for Open Source and I am really interested in participating
 
 
 # Open Questions
-- How does Open Source Software relates to Cloud Services and Managed Solutions? 
+- How does Open Source Software relates to Cloud Services and Managed Solutions? Is it loosing relevance or importance from a competition point of view?
 - From a monetization point of view, how does the business model changes or adapts when Open Source software wants to be monetized as a SaaS offering
+- Which goverments promote Open Source actively? How does these programs looks like? 
 
 
 # References
