@@ -24,6 +24,15 @@ As part of my Open Source Journey, a recent involvement that I had was with the 
 
 I am a huge advocate for Open Source and I am really interested in participating and sharing my experiences with other people, as well as helping people to get their Open Source Journey started. Feel free to reach out if you feel that I can help you to get started. 
 
+# Open Source Initiatives
+Some of the projects, foundations and organizations related to Open Source where you can get involved to learn new stuff: 
+- [From Monoliths to Kubernetes](http://github.com/salaboy/from-monolith-to-k8s)
+- [Orchestrating Cloud Events](http://github.com/salaboy/orchestrating-cloud-events)
+- [Continuous Delievery Foundation CDF](https://cd.foundation)
+- [Jenkins X](https://jenkins-x.io)
+- [Zeebe](http://zeebe.io)
+- [JHipster](http://jhipster.tech)
+
 
 # Open Questions
 - How does Open Source Software relates to Cloud Services and Managed Solutions? Is it loosing relevance or importance from a competition point of view?
