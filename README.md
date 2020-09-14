@@ -5,6 +5,13 @@ Open Source References, Links, Ideas and thoughts.
 
 After working for some years in different companies that prometed Open Source as part of their core believes I've came to meet a lot of people who explained and promoted Open Source in different ways. Some more passionate, some very practical, some very theoretical, so I will use this repository to keep track of ideas and thougths about how Open Source initiatives impacts different communities, companies and organizations. 
 
+The Open Source Initiative defines the following requirements for Open Source Projects: 
+* Free redistribution of the software.
+* The source code should be publicly available.
+* The software can be modified and distributed in a different format from the original software.
+* The software should not discriminate against persons or groups.
+* The software should not restrict the usage of other software. 
+
 ## Lessons Learned
 
   - Open Source is a continuous learning experience
