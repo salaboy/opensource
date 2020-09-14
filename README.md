@@ -49,6 +49,7 @@ Some of the projects, foundations and organizations related to Open Source where
 
 # References
 - [Open Source Initiative](http://opensource.com)
+- [Open Source KeyNote @ JBCNConf 2016](https://www.youtube.com/watch?v=NvHvC2QfsYk)
 - [Open Source vs Free Software](https://dzone.com/articles/free-software-vs-open-source-vs-freeware-whats-the)
 - [Choose your License](https://choosealicense.com)
 - [Open Core Principles](https://www.moritzplassnig.com/open-core-first-principles/)
