@@ -5,7 +5,7 @@ Open Source References, Links, Ideas and thoughts.
 
 After working for some years in different companies that prometed Open Source as part of their core believes I've came to meet a lot of people who explained and promoted Open Source in different ways. Some more passionate, some very practical, some very theoretical, so I will use this repository to keep track of ideas and thougths about how Open Source initiatives impacts different communities, companies and organizations. 
 
-## Lessons Learned
+## Lessons Learned
 
   - Open Source is a continuous learning experience
   - Contributions Matters more than credentials
