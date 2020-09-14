@@ -31,7 +31,7 @@ As part of my Open Source Journey, a recent involvement that I had was with the 
 
 I am a huge advocate for Open Source and I am really interested in participating and sharing my experiences with other people, as well as helping people to get their Open Source Journey started. Feel free to reach out if you feel that I can help you to get started. 
 
-# Open Source Initiatives
+# My Open Source Initiatives and Involvements
 Some of the projects, foundations and organizations related to Open Source where you can get involved to learn new stuff: 
 - [From Monoliths to Kubernetes](http://github.com/salaboy/from-monolith-to-k8s)
 - [Orchestrating Cloud Events](http://github.com/salaboy/orchestrating-cloud-events)
