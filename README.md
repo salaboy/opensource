@@ -12,6 +12,9 @@ After working for some years in different companies that prometed Open Source as
 	- Influence will come from value added, not your title
   - Open Source is changing with the Cloud
   - Being part of Open Source is an active task, you cannot be a passive consumer
+  - Sharing is an innate part of learning
+
+Sharing/teaching something is always challenging, because it implies spending time preparing, summarizing and understanding something well enough to be able to explain it to someone else. From that angle, having a blog where you can continously share with other your lessons learned was key for my Open Source Journey. I've opened [salaboy.com](https://salaboy.com) around 2008, where I just wrote about the projects that I was using and researching. In the long run, my blog provided me a track record of what've I've done and in conjunction with my GitHub account these two resources replaced the need for having a CV. In other words, I don't want to be hired by someone that doesn't know my blog or my github activity. If they know any of these two resources, they know exactly what I've been doing and interested in the last 10 years and what my core competences are. **Contributions Matters more than credentials**
 
 Recognition is important in these communities and I haven't realized how important recognition is until [I was nominated for JBoss Awards in 2011](https://blog.kie.org/2011/03/vote-salaboy-community-award.html). 
 
