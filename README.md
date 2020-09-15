@@ -65,3 +65,4 @@ Ways to reach out:
 - [Open Source Myths and Half Truths Part 2](https://hackernoon.com/open-source-myths-and-half-truths-part-2-rft3ufk?ref=hackernoon.com)
 - **Open Source Governance Find Reference**
   - [CNCF Governance Models](https://www.cncf.io/blog/2019/08/30/cncf-technical-principles-and-open-governance-success/)
+- [SouJava MOTU Open Source Deep Dive Panel 2020](https://www.youtube.com/watch?v=g0FgpxmgmPs)  
