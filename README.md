@@ -46,6 +46,14 @@ Some of the projects, foundations and organizations related to Open Source where
 - From a monetization point of view, how does the business model changes or adapts when Open Source software wants to be monetized as a SaaS offering
 - Which goverments promote Open Source actively? How does these programs looks like? 
 
+# Get Started with Open Source
+
+I am a huge advocate for Open Source and I am really interested in participating and sharing my experiences with other people, as well as helping people to get their Open Source Journey started. 
+Feel free to reach out if you feel that I can help you to get started. 
+Ways to reach out: 
+- [Blog salaboy.com](http://salaboy.com): Drop me a comment there
+- [At Twitter @salaboy](http://twitter.com/salaboy): I have my DMs open if you don't want to tweet publicaly. 
+- [Create an issue in this repository](http://github.com/salaboy/open-source/issues)
 
 # References
 - [Open Source Initiative](http://opensource.com)
