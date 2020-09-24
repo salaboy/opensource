@@ -40,9 +40,12 @@ Some of the projects, foundations and organizations related to Open Source where
 
 
 # Open Questions
-- How does Open Source Software relates to Cloud Services and Managed Solutions? Is it loosing relevance or importance from a competition point of view?
-- From a monetization point of view, how does the business model changes or adapts when Open Source software wants to be monetized as a SaaS offering
-- Which goverments promote Open Source actively? How does these programs looks like? 
+- Open Source and SaaS
+  - How does Open Source Software relates to Cloud Services and Managed Solutions? Is it loosing relevance or importance from a competition point of view?
+  - From a monetization point of view, how does the business model changes or adapts when Open Source software wants to be monetized as a SaaS offering
+  - Do you kill an open source community if you decide to focus on a SaaS product/service? 
+- Gov Country Related
+  - Which goverments promote Open Source actively? How does these programs looks like? 
 
 # Get Started with Open Source
 
