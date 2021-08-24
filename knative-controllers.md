@@ -27,5 +27,13 @@ Here is a quick summary of the contents of these directories:
 - **`test`**: another very self-descriptive directory. Knative components are quite complex, so I will add more details later on about testing and how the tests are organized for `serving` and `eventing`
 
 
+## Creating a new CRD and Controller
+
+Creating your new CRDs and controllers is a simple process but involves creating different resources and knowing exactly how the code generation will work. 
+This section will be showing all the files that are involved in creating new CRDs and their respective controllers code. 
+
+In contrast with other frameworks, Knative choose to not use code generation from the CRDs definitions as these resources doesn't change often and usually are defined just once. 
+
+
 
 
