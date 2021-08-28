@@ -1,6 +1,8 @@
 # Creating a KNative-Style K8s Controller 
 
 This document is intended for developers wanting to create new Controllers following the approach of the [Knative Project](http://knative.dev)
+A Sample Controller Project template can be found here: https://github.com/knative-sandbox/sample-controller you can use this template to start up your new controller project. 
+
 
 ## Project Structure
 
@@ -12,7 +14,8 @@ config/
 hack/
 pkg/
 test/
-<vendor/>
+<third_party>/
+<vendor>/
 go.mod
 ```
 
@@ -33,6 +36,10 @@ Creating your new CRDs and controllers is a simple process but involves creating
 This section will be showing all the files that are involved in creating new CRDs and their respective controllers code. 
 
 In contrast with other frameworks, Knative choose to not use code generation from the CRDs definitions as these resources doesn't change often and usually are defined just once. 
+
+This are the files that you need to create for your new CRD types: 
+
+- 
 
 
 
